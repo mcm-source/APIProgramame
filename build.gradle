@@ -25,6 +25,4 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-maven-plugin:2.6.3'
 }
 
-tasks.named('test') {
-    useJUnitPlatform()
-}
+
